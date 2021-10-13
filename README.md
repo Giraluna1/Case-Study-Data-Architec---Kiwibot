@@ -55,26 +55,26 @@ and lest's connect to that instance from our local machine.
 
 it will ask for an instance name, password, select a data center that is near to operations for better performance, give the version that you need to create, and click on CREATE
 
-![Pasted image 20211012111712.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ee9440c6-0856-4bb0-8657-e954033d84dd/Pasted_image_20211012111712.png)
+![2](https://github.com/Giraluna1/Case-Study-Data-Architec---Kiwibot/blob/main/statics/2.png)
 
 well the instance is being loaded we can see more the basic details of the instance, CPU, RAM, Storage and we can also see the IP address wich we can use to connect to this instance from our machine
 
-![Pasted image 20211012112347.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f628c1c9-55cd-404e-9b40-fcd8442bdfb8/Pasted_image_20211012112347.png)
+![3](https://github.com/Giraluna1/Case-Study-Data-Architec---Kiwibot/blob/main/statics/3.png)
 
 ## 2. Connect to DataBase.
 
 Now our instance is up and running in order to connect to our DB we need a database management tool for Postgres it is pg admin. Open PG admin
 Create a new server.
 
-![Pasted image 20211012113109.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3afb2b2a-4cae-4b9b-9c91-ceab0ae0a13d/Pasted_image_20211012113109.png)
+![4](https://github.com/Giraluna1/Case-Study-Data-Architec---Kiwibot/blob/main/statics/4.png)
 
 give a name for this connection
 
-![Pasted image 20211012113326.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7b27be4a-c935-49d2-8487-ef47c3765b67/Pasted_image_20211012113326.png)
+![5](https://github.com/Giraluna1/Case-Study-Data-Architec---Kiwibot/blob/main/statics/5.png)
 
 put in the Host address the IP address for our DB instance, the username is Postgres and the default port is 5432.
 
-![Pasted image 20211012114253.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1860cf74-58c1-4d80-a1e8-d06310b5048b/Pasted_image_20211012114253.png)
+![6](https://github.com/Giraluna1/Case-Study-Data-Architec---Kiwibot/blob/main/statics/6.png)
 
 the password is the password of our instance
 
@@ -82,7 +82,7 @@ the password is the password of our instance
 
 Once we have the connection ready, we do the migration of our ERD model made with the Lucidchart tool, we can export it to our DBMS. Before using the generated commands we may need to add data types, indices or foreign keys and then copy the subsequent commands to your clipboard
 
-![Pasted image 20211012125041.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/42887269-603c-4e97-b40d-f87a0d4b0407/Pasted_image_20211012125041.png)
+![7](https://github.com/Giraluna1/Case-Study-Data-Architec---Kiwibot/blob/main/statics/7.png)
 
 and now we can load the records to the database, through the backend of our software, or from the data previously processed and transformed.
 
