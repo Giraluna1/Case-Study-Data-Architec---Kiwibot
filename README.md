@@ -5,7 +5,7 @@ you can see the info at [Notion](https://giraluna.notion.site/DATA-ARCHITECT-CAS
 
 # **Entity Relationship Diagram of Kiwi’s main operation database**
 
-![ERD - Kiwi's main operation .svg](https://github.com/Giraluna1/Case-Study-Data-Architec---Kiwibot/blob/main/statics/ERD%20-%20Kiwi's%20main%20operation%20.svg)
+![ERD - Kiwi's main operation](https://github.com/Giraluna1/Case-Study-Data-Architec---Kiwibot/blob/main/statics/ERD%20-%20Kiwi's%20main%20operation%20.png)
 
 This diagram shows some of the entities present in Kiwibot's business and how they are related through its database.
 
