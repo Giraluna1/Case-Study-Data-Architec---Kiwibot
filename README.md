@@ -14,7 +14,7 @@ the entities you will find are:
 - Countries
 - Cities
 - Neighborhoods
-- Capus of operation
+- Campus of operation
 - Branch offices
 - Businesses
 - Application users
@@ -23,7 +23,7 @@ the entities you will find are:
 - integrated service with Pg_routing
 - Kiwibots
 - Tests on the road
-- maintenance verification
+- Maintenance verification
 - Product
 - Ordering
 - Agreements
@@ -35,7 +35,7 @@ the entities you will find are:
 - Projects
 - News reports
 
-For the elaboration of the diagram the LucidChart tool was used.
+For the elaboration of the Entity Relational Diagram (ERD), the LucidChart tool was used.
 
 
 # Data implementation 👩🏽‍💻
