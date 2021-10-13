@@ -2,7 +2,7 @@
 
 # **Entity Relationship Diagram of Kiwi’s main operation database**
 
-![ERD - Kiwi's main operation .svg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3228fae0-d4c8-493d-8ee5-8b69a4e6f98a/ERD_-_Kiwis_main_operation_.svg)
+![ERD - Kiwi's main operation .svg](https://github.com/Giraluna1/Case-Study-Data-Architec---Kiwibot/blob/main/statics/ERD%20-%20Kiwi's%20main%20operation%20.svg)
 
 This diagram shows some of the entities present in Kiwibot's business and how they are related through its database.
 
