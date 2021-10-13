@@ -1,5 +1,7 @@
 # Case-Study-Data-Architec---Kiwibot
 
+you can see the info at [Notion](https://giraluna.notion.site/Data-Architecture-ee3d1d5c398c4be990cc02f2893f3c58)
+
 # **Entity Relationship Diagram of Kiwi’s main operation database**
 
 ![ERD - Kiwi's main operation .svg](https://github.com/Giraluna1/Case-Study-Data-Architec---Kiwibot/blob/main/statics/ERD%20-%20Kiwi's%20main%20operation%20.svg)
