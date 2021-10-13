@@ -20,7 +20,7 @@ the entities you will find are:
 - Application users
 - Clients
 - Location georeference
-- integrated service with Pg_routing
+- Integrated service with Pg_routing
 - Kiwibots
 - Tests on the road
 - Maintenance verification
