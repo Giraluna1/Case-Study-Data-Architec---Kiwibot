@@ -1,6 +1,7 @@
 # Case-Study-Data-Architec---Kiwibot
 
-you can see the info at [Notion](https://giraluna.notion.site/Data-Architecture-ee3d1d5c398c4be990cc02f2893f3c58)
+<a align="center" href="https://global-uploads.webflow.com/5ddc307f68536f623db8c772/60ba51d9b0972d9a12a09463_hardware3-min.png"><img align="center" src="https://global-uploads.webflow.com/5ddc307f68536f623db8c772/60ba51d9b0972d9a12a09463_hardware3-min.png" alt="alpha1" border="0" ></a>
+you can see the info at [Notion](https://giraluna.notion.site/DATA-ARCHITECT-CASE-STUDY-d046efec228f4d1080fc457967927135) too.
 
 # **Entity Relationship Diagram of Kiwi’s main operation database**
 
